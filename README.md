@@ -1,1 +1,1 @@
-# unknown_project
+# boilerplate app
